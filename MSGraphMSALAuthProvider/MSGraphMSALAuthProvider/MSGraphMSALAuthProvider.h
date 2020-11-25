@@ -15,8 +15,8 @@ FOUNDATION_EXPORT const unsigned char MSGraphMSALAuthProviderVersionString[];
 #ifndef MSGraphMSALAuthProvider_h
 #define MSGraphMSALAuthProvider_h
 
-#import <MSGraphMSALAuthProvider/MSALAuthenticationProvider.h>
-#import <MSGraphMSALAuthProvider/MSALAuthenticationProviderOptions.h>
+#import <BRMSGraphMSALAuthProvider/MSALAuthenticationProvider.h>
+#import <BRMSGraphMSALAuthProvider/MSALAuthenticationProviderOptions.h>
 
 #endif
 
