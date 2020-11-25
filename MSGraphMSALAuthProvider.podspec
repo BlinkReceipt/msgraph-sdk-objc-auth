@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = "10.0"
 
-  s.source       = { :git => "https://github.com/microsoftgraph/msgraph-sdk-objc-auth.git", :tag=> s.version }
+  s.source       = { :git => "https://github.com/blinkreceipt/msgraph-sdk-objc-auth.git", :tag=> s.version }
 
   s.source_files  = "MSGraphMSALAuthProvider/MSGraphMSALAuthProvider/*.{h,m}"
   s.exclude_files = "MSGraphMSALAuthProvider/MSGraphMSALAuthProviderTests/*"
